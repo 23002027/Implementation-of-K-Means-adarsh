@@ -88,31 +88,38 @@ plt.title("Customer Segments")
 
 ### data.head():
 
+![image](https://github.com/user-attachments/assets/845cc9e0-610b-4306-9051-ed4653e5b256)
 
 
 ### data.info():
 
+![image](https://github.com/user-attachments/assets/65383537-0ac6-4170-942b-2b2ca648d2ef)
 
 
 ### NULL VALUES:
 
+![image](https://github.com/user-attachments/assets/1b62501f-8c4b-4b86-b103-9bda9fb34f83)
 
 
 
 ### ELBOW GRAPH:
 
+![image](https://github.com/user-attachments/assets/bc7cd5fd-5ca4-4ea5-8c8c-e6da8b70a15f)
 
 
 ### CLUSTER FORMATION:
 
+![image](https://github.com/user-attachments/assets/4991a675-ae76-4526-bfd5-50fab1a3a86c)
 
 
 ### PREDICICTED VALUE:
 
+![image](https://github.com/user-attachments/assets/7e2270a7-bb7c-4c7b-9fc1-ff0666ca2684)
 
 
 ### FINAL GRAPH(D/O):
 
+![image](https://github.com/user-attachments/assets/c8f7a335-2c85-4e47-b8ac-170b010cc4b4)
 
 
 ## Result:
