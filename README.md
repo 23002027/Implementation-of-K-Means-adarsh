@@ -34,8 +34,8 @@ If the evaluation metrics allow for it, you can compare the results of multiple 
 ```
 /*
 Program to implement the K Means Clustering for Customer Segmentation.
-Developed by: ADARSH CHOWDARY R
-RegisterNumber: 212223040166
+Developed by: KAMESH RR
+RegisterNumber: 212223230095
 */
 ```
 
